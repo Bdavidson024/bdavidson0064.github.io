@@ -1,5 +1,5 @@
-<script type="text/javascript">
-var students =
+
+<script>
      [{"name":"Rosie","major":"CIT","midterm":88,"final":87},
      {"name":"Bruce","major":"CIT","midterm":68,"final":87},
      {"name":"Carol","major":"BUS","midterm":75,"final":87},
